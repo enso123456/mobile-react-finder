@@ -1,0 +1,6 @@
+export const AUTH_USER = "AUTH_USER";
+export const UNAUTH_USER = "UNAUTH_USER";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const FETCH_MESSAGES = "FETCH_MESSAGES";
+export const FETCH_MOBILE_INFO = "FETCH_MOBILE_INFO";
+export const CLEAR_MOBILE_INFO = "CLEAR_MOBILE_INFO";
